@@ -1,10 +1,13 @@
-﻿{
+{
   "name": "telegram-bot",
   "version": "1.0.0",
   "description": "HAYBAT-PRO Telegram Bot",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
+  },
+  "engines": {
+    "node": "20.x"
   },
   "keywords": [],
   "author": "",
